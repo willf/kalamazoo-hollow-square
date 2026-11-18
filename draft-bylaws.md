@@ -1,10 +1,10 @@
-# Kalamazoo Shape Note Singers draft bylaws
+# Kalamazoo Shape Note draft bylaws
 
 Draft for board review, November 18, 2026. Proposed choices include one-year terms, a calendar fiscal year, and at least two board meetings each year. Effective only upon adoption after incorporation. Officer names belong in the election minutes rather than in these continuing rules.
 
 ## Article 1 Name and purposes
 
-The corporation is Kalamazoo Shape Note Singers, a Michigan nonprofit corporation organized on a nonstock, directorship basis. Its purposes and activities shall conform to its articles of incorporation and Section 501(c)(3) of the Internal Revenue Code.
+The corporation is Kalamazoo Shape Note, a Michigan nonprofit corporation organized on a nonstock, directorship basis. Its purposes and activities shall conform to its articles of incorporation and Section 501(c)(3) of the Internal Revenue Code.
 
 ## Article 2 Participation
 

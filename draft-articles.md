@@ -1,4 +1,4 @@
-# Kalamazoo Shape Note Singers draft articles of incorporation
+# Kalamazoo Shape Note draft articles of incorporation
 
 Draft for completion and review, November 18, 2026. Not signed or filed. The proposed name has not been cleared. Bracketed fields must be resolved before filing. These provisions follow the subjects in Michigan Form 502; the additional articles must accompany the state filing.
 
@@ -6,7 +6,7 @@ Address assumption for review: at William's direction, this draft treats the KNA
 
 ## Article I Name
 
-The name of the corporation is Kalamazoo Shape Note Singers.
+The name of the corporation is Kalamazoo Shape Note.
 
 ## Article II Purposes
 

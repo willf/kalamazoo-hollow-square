@@ -1,4 +1,4 @@
-# Kalamazoo Shape Note Singers
+# Kalamazoo Shape Note
 
 Formation documents and planning records for a proposed Michigan nonprofit corporation seeking recognition under Section 501(c)(3) of the Internal Revenue Code.
 

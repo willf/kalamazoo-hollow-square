@@ -1,14 +1,14 @@
-# Kalamazoo Shape Note Singers formation plan
+# Kalamazoo Shape Note formation plan
 
 Working record as of November 18, 2026. The accompanying articles, bylaws, and resolutions are drafts for review and adoption. No filing or election has occurred through this project.
 
 ## Confirmed organization details
 
-- Proposed legal name: Kalamazoo Shape Note Singers. Michigan name availability remains to be checked.
+- Proposed legal name: Kalamazoo Shape Note. Michigan name availability remains to be checked.
 - Structure: Michigan nonprofit corporation, nonstock, directorship basis. The board elects successor directors; singers do not have statutory membership voting rights.
 - Initial directors: Martha Beverly, Marjorie Harrington, William Fitzgerald, Zachary Franklin.
 - Resident agent: William Fitzgerald. Proposed registered office: 315 W. Michigan Avenue, Kalamazoo, MI 49007, at Kalamazoo Nonprofit Advocacy Coalition (KNAC). At William's direction, drafts assume this is his business office; KNAC's permission and the actual office arrangement remain to be verified before filing.
-- Proposed mailing address: Kalamazoo Shape Note Singers, c/o Kalamazoo Nonprofit Advocacy Coalition, 315 W. Michigan Avenue, Kalamazoo, MI 49007.
+- Proposed mailing address: Kalamazoo Shape Note, c/o Kalamazoo Nonprofit Advocacy Coalition, 315 W. Michigan Avenue, Kalamazoo, MI 49007.
 - Coalition contact phone supplied by William: 269.216.9022. This is not established as the singers' organizational phone number.
 - Proposed officers: William Fitzgerald, president; Zachary Franklin, secretary; Martha Beverly, treasurer. Marjorie Harrington is a director without an officer assignment. Officers must be elected by the board.
 - Current activities: an annual singing and three singings each month; workshops and singing schools for adults. Children's instruction is planned. Confirm the existing adult instruction schedule before describing it in an IRS application.
@@ -20,7 +20,7 @@ Working record as of November 18, 2026. The accompanying articles, bylaws, and r
 
 ## Proposed mission
 
-Kalamazoo Shape Note Singers preserves and advances shape-note singing through public participatory singings, instruction for adults and children, and community education about the tradition in Kalamazoo and the surrounding region.
+Kalamazoo Shape Note preserves and advances shape-note singing through public participatory singings, instruction for adults and children, and community education about the tradition in Kalamazoo and the surrounding region.
 
 Public access and the mission wording are proposed commitments for the board to confirm.
 

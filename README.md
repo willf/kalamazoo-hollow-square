@@ -4,7 +4,7 @@
 
 Formation documents and planning records for a proposed Michigan nonprofit corporation seeking recognition under Section 501(c)(3) of the Internal Revenue Code.
 
-Kalamazoo Hollow Square is the provisional organization name. The repository remains `willf/kalamazoo-shape-note`.
+Kalamazoo Hollow Square is the provisional organization name. The repository is `willf/kalamazoo-hollow-square`.
 
 All documents are working drafts. They have not been signed, adopted, or filed through this project. Assumptions and incomplete fields must be resolved before use.
 

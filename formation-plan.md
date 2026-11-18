@@ -6,11 +6,11 @@ Working record as of November 18, 2026. The accompanying articles, bylaws, and r
 
 - Proposed legal name: Kalamazoo Shape Note. Michigan name availability remains to be checked.
 - Structure: Michigan nonprofit corporation, nonstock, directorship basis. The board elects successor directors; singers do not have statutory membership voting rights.
-- Initial directors: Martha Beverly, Marjorie Harrington, William Fitzgerald, Zachary Franklin.
+- Initial directors: Martha Beverly, Marjorie Harrington, William Fitzgerald, Zachary Franklin, Becca Harrington.
 - Resident agent: William Fitzgerald. Proposed registered office: 315 W. Michigan Avenue, Kalamazoo, MI 49007, at Kalamazoo Nonprofit Advocacy Coalition (KNAC). At William's direction, drafts assume this is his business office; KNAC's permission and the actual office arrangement remain to be verified before filing.
 - Proposed mailing address: Kalamazoo Shape Note, c/o Kalamazoo Nonprofit Advocacy Coalition, 315 W. Michigan Avenue, Kalamazoo, MI 49007.
 - Coalition contact phone supplied by William: 269.216.9022. This is not established as the singers' organizational phone number.
-- Proposed officers: William Fitzgerald, president; Zachary Franklin, secretary; Martha Beverly, treasurer. Marjorie Harrington is a director without an officer assignment. Officers must be elected by the board.
+- Proposed officers: William Fitzgerald, president; Zachary Franklin, secretary; Becca Harrington, treasurer. Martha Beverly and Marjorie Harrington are directors without officer assignments. Officers must be elected by the board.
 - Current activities: an annual singing and three singings each month; workshops and singing schools for adults. Children's instruction is planned. Confirm the existing adult instruction schedule before describing it in an IRS application.
 - Planned event: a film screening with its producers. Confirm the film's subject and its connection to the educational mission.
 - Reported annual budget: approximately $2,000; actual annual gross receipts remain to be confirmed.
@@ -45,7 +45,7 @@ Public access and the mission wording are proposed commitments for the board to 
 
 ## Proposed financial controls
 
-Martha Beverly is the proposed treasurer and will oversee financial records, receipts, payments, and financial reports under the bylaws. William remains the proposed president. A document requiring execution by two officers needs two different people. [MCL 450.2531](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2531)
+Becca Harrington is the proposed treasurer and will oversee financial records, receipts, payments, and financial reports under the bylaws. William remains the proposed president. A document requiring execution by two officers needs two different people. [MCL 450.2531](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2531)
 
 Proposed controls: a director other than the person principally handling funds reviews each monthly bank statement with activity; another disinterested director approves each person's reimbursements; spending outside the approved budget requires board authorization. The draft resolutions leave the independent reviewer to be selected. These are internal choices for adoption, not claims about statutory requirements.
 

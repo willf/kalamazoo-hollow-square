@@ -10,6 +10,7 @@ I, William Fitzgerald, incorporator of Kalamazoo Shape Note, a Michigan nonprofi
 - Marjorie Harrington
 - William Fitzgerald
 - Zachary Franklin
+- Becca Harrington
 
 Signed: ________________________ Date: ________________________
 
@@ -27,7 +28,7 @@ The board acknowledges the filed articles and adopts the bylaws attached to thes
 
 ### Officers
 
-The board elects William Fitzgerald president, Zachary Franklin secretary, and Martha Beverly treasurer, to serve under the bylaws. Marjorie Harrington continues as a director without an officer assignment.
+The board elects William Fitzgerald president, Zachary Franklin secretary, and Becca Harrington treasurer, to serve under the bylaws. Martha Beverly and Marjorie Harrington continue as directors without officer assignments.
 
 ### Conflict policy
 
@@ -37,7 +38,7 @@ The board adopts the conflict-of-interest policy below and directs every directo
 
 William Fitzgerald is authorized to obtain the corporation's EIN as its principal officer and responsible party. The board authorizes an organizational bank account at [bank] in the corporation's legal name and designates [names] as authorized signers, subject to the bank's requirements. No borrowing is authorized by this resolution.
 
-[Select a director other than the person principally handling funds] shall review monthly statements for months with activity. Martha Beverly, as treasurer, shall oversee financial records, receipts, payments, and financial reports. The board authorizes payments within the adopted budget and bylaws. Reimbursements to any director or officer require approval by another disinterested director; no person may approve their own reimbursement. Any bank forms requiring signatures from two officers shall be executed by William and Zachary in separate capacities, subject to the bank's requirements.
+[Select a director other than the person principally handling funds] shall review monthly statements for months with activity. Becca Harrington, as treasurer, shall oversee financial records, receipts, payments, and financial reports. The board authorizes payments within the adopted budget and bylaws. Reimbursements to any director or officer require approval by another disinterested director; no person may approve their own reimbursement. Any bank forms requiring signatures from two officers shall be executed by William and Zachary in separate capacities, subject to the bank's requirements.
 
 ### Budget and existing assets
 

@@ -12,7 +12,7 @@ The corporation has no members with statutory voting rights. Singers, volunteers
 
 ## Article 3 Board of directors
 
-The board manages the corporation's affairs and has four directors. It may change that number by amending these bylaws, but never below three. Each director has one vote, regardless of the number of offices held.
+The board manages the corporation's affairs and has five directors. It may change that number by amending these bylaws, but never below three. Each director has one vote, regardless of the number of offices held.
 
 The incorporator selects the initial directors by written instrument. Initial directors serve until the first annual board meeting and until their successors are elected and qualified. At each annual meeting, the board elects directors for one-year terms and until their successors are elected and qualified. Directors may be reelected without a term limit.
 
@@ -30,7 +30,7 @@ Except for a meeting subject to a longer statutory requirement, notice stating t
 
 Directors may participate remotely if all participants can communicate with one another. Remote participation counts as presence. Directors may not vote by proxy.
 
-A majority of the directors then in office constitutes a quorum. Unless a larger vote is required by law, the articles, or these bylaws, an action requires a majority of directors present at a meeting with a quorum. With four directors in office, three constitute a quorum. An ordinary action requires two affirmative votes when three directors are present, or three affirmative votes when all four are present. A tie fails.
+A majority of the directors then in office constitutes a quorum. Unless a larger vote is required by law, the articles, or these bylaws, an action requires a majority of directors present at a meeting with a quorum. With five directors in office, three constitute a quorum. An ordinary action requires two affirmative votes when three directors are present, or three affirmative votes when four or five directors are present. A tie fails.
 
 Action without a meeting requires the consent of every director then in office, in writing or by electronic transmission. The secretary shall preserve all consents with the minutes. Informal email exchanges or majority-only email approvals do not satisfy this requirement.
 

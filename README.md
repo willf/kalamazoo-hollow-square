@@ -17,7 +17,8 @@ All documents are working drafts. They have not been signed, adopted, or filed t
 | --- | --- |
 | William Fitzgerald | President |
 | Zachary Franklin | Secretary |
-| Martha Beverly | Treasurer |
+| Becca Harrington | Treasurer |
+| Martha Beverly | Director without an officer assignment |
 | Marjorie Harrington | Director without an officer assignment |
 
 Officer appointments are subject to board election. The KNAC business-office arrangement remains an assumption to verify before filing.

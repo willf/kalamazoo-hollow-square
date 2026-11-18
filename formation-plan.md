@@ -17,7 +17,7 @@ Working record as of November 18, 2026. The accompanying articles, bylaws, and r
 - Reported annual budget: approximately $2,000; actual annual gross receipts remain to be confirmed.
 - Existing group funds: approximately $2,000 held in a personal bank account, intended for transfer to the new corporate account. No equipment or debts reported. Confirm donor restrictions and the exact transfer amount; no transfer has yet occurred through this project.
 - No EIN; a new organizational bank account is needed.
-- Designated dissolution recipient: Sacred Harp Musical Heritage Association, EIN 63-1216235, subject to continued Section 501(c)(3) qualification and the alternative distribution provisions in Article VII of the draft articles.
+- Designated dissolution recipients, in order: Sacred Harp Musical Heritage Association, EIN 63-1216235; then Sacred Harp Publishing Company, Inc., EIN 23-7206208. Both are subject to continued Section 501(c)(3) qualification. Article VII of the draft articles retains a final fallback to other qualifying charities if neither named recipient can accept the assets.
 
 ## Proposed mission
 

@@ -1,6 +1,4 @@
-# Kalamazoo Hollow Square draft bylaws
-
-Draft for board review, November 18, 2026. Proposed choices include one-year terms, a calendar fiscal year, and at least two board meetings each year. Effective only upon adoption after incorporation. Officer names belong in the election minutes rather than in these continuing rules.
+# Kalamazoo Hollow Square Bylaws
 
 ## Article 1 Name and purposes
 
@@ -30,9 +28,9 @@ Except for a meeting subject to a longer statutory requirement, notice stating t
 
 Directors may participate remotely if all participants can communicate with one another. Remote participation counts as presence. Directors may not vote by proxy.
 
-A majority of the directors then in office constitutes a quorum. Unless a larger vote is required by law, the articles, or these bylaws, an action requires a majority of directors present at a meeting with a quorum. With five directors in office, three constitute a quorum. An ordinary action requires two affirmative votes when three directors are present, or three affirmative votes when four or five directors are present. A tie fails.
+A majority of the directors then in office constitutes a quorum. Unless a larger vote is required by law, the articles, or these bylaws, an action requires a majority of directors present at a meeting with a quorum. A tie fails.
 
-Action without a meeting requires the consent of every director then in office, in writing or by electronic transmission. The secretary shall preserve all consents with the minutes. Informal email exchanges or majority-only email approvals do not satisfy this requirement.
+Action without a meeting requires the consent of every director then in office, in writing or by electronic transmission. The secretary shall preserve all consents with the minutes.
 
 ## Article 5 Officers
 
@@ -66,12 +64,8 @@ If these bylaws conflict with mandatory law or the articles of incorporation, th
 
 ## Adoption
 
-Adopted by the board on [date].
+Adopted by the board on ______________________________.
 
 Secretary: ______________________________
 
 Printed name: ___________________________
-
-## Drafting sources
-
-Relevant Michigan provisions: [director number and terms](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2505), [vacancies](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2515a), [removal](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2511), [meetings](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2521), [quorum and amendments](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2523), [unanimous consent](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2525), and [officers](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2531). These notes are not operative bylaws.

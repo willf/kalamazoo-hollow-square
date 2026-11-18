@@ -57,3 +57,31 @@ Keep filed articles, the EIN notice, bylaws, minutes, conflict disclosures, bank
 Michigan nonprofit annual reports are due October 1 each year after incorporation, with a current $20 fee. If incorporation occurs in November 2026, plan the first report for October 1, 2027. [Michigan annual reports](https://www.michigan.gov/lara/bureau-list/cscl/corps/michigan-business-roadmap/annual-reports-and-annual-statements/)
 
 Review annual IRS filing obligations starting with the formation year, including while the exemption application is pending. At this scale, Form 990-N is likely if the organization qualifies. [IRS annual filing requirements](https://www.irs.gov/instructions/i1023ez)
+
+## Document preparation notes
+
+The articles and bylaws were prepared as drafts for review on November 18, 2026. Neither has been signed, filed, or adopted through this project. Their document titles and text omit preparation notes; their filenames retain the draft designation. Kalamazoo Hollow Square remains a provisional proposed name, subject to final selection and name availability.
+
+### Articles completion and filing
+
+The articles follow the subjects in Michigan Form 502. Include the additional tax and dissolution articles with the state filing. Complete both asset-value blanks and the execution date before signing or filing. For real property, supply a description and value or state none after confirmation. For personal property, establish the corporation's actual initial assets; approximately $2,000 in existing group cash is planned for transfer from a personal account, with no equipment reported. The planned transfer is not evidence that the corporation already holds those funds.
+
+At William's direction, the articles use the KNAC address as his business office. Verify KNAC's permission and the actual office arrangement before filing.
+
+### Bylaws review and adoption
+
+The proposed bylaws provide for five directors, one-year terms, a calendar fiscal year, and at least two board meetings per year. They take effect upon board adoption after incorporation. Record officer names and elections in the organizational minutes rather than in the continuing bylaws. Complete the adoption date and secretary's certification when adopted.
+
+Under the proposed voting rules, three of the five directors constitute a quorum. Ordinary actions require two affirmative votes with three present, or three affirmative votes with four or five present. Amendments and other matters requiring a larger vote remain subject to their specific rules. Action without a meeting requires every director's written or electronic consent; informal email exchanges or majority-only approvals do not suffice.
+
+### Articles drafting sources
+
+The article subjects and required filing fields come from [Michigan Form 502](https://www.michigan.gov/lara/-/media/Project/Websites/lara/cscl/NonImages_new/Corps/forms/corporation/502-0725.pdf). The purpose, limitations, and dissolution provisions address the [IRS organizing-document requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/charity-required-provisions-for-organizing-documents).
+
+The Association's name and EIN are confirmed on its [official website](https://fasola.org/shmha/). The qualification condition and alternative recipient follow the [IRS Form 1023 dissolution instructions](https://www.irs.gov/instructions/i1023).
+
+The backup recipient is listed as Sacred Harp Publishing Company Inc, EIN 23-7206208, in [IRS-derived records on Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237206208).
+
+### Bylaws drafting sources
+
+Relevant Michigan provisions: [director number and terms](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2505), [vacancies](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2515a), [removal](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2511), [meetings](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2521), [quorum and amendments](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2523), [unanimous consent](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2525), and [officers](https://legislature.mi.gov/Laws/MCL?objectName=mcl-450-2531).

@@ -1,8 +1,4 @@
-# Kalamazoo Hollow Square draft articles of incorporation
-
-Draft for completion and review, November 18, 2026. Not signed or filed. Kalamazoo Hollow Square is the provisional proposed name and has not been cleared. Bracketed fields must be resolved before filing. These provisions follow the subjects in Michigan Form 502; the additional articles must accompany the state filing.
-
-Address assumption for review: at William's direction, this draft treats the KNAC address as his business office. Verify KNAC's permission and the actual office arrangement before filing.
+# Kalamazoo Hollow Square Articles of Incorporation
 
 ## Article I Name
 
@@ -17,8 +13,8 @@ Its specific purpose is to preserve and advance the tradition of shape-note sing
 ## Article III Organization and financing
 
 1. The corporation is formed on a nonstock basis.
-2. Real property assets: [description and value, or none, based on the corporation's actual initial assets].
-3. Personal property assets: [confirm the corporation's actual initial assets before filing; approximately $2,000 of existing group cash is intended for transfer from a personal account, with no equipment reported].
+2. Real property assets: ______________________________
+3. Personal property assets: ______________________________
 4. The corporation is to be financed by voluntary contributions, grants, program fees, and other lawful receipts consistent with its exempt purposes.
 5. The corporation is formed on a directorship basis.
 
@@ -52,14 +48,6 @@ If Sacred Harp Publishing Company, Inc. does not exist, does not so qualify, or 
 
 ## Execution
 
-I, the incorporator, sign these Articles of Incorporation on [date].
+I, the incorporator, sign these Articles of Incorporation on ______________________________.
 
 William Fitzgerald: ______________________________
-
-## Drafting sources
-
-The article subjects and required filing fields come from [Michigan Form 502](https://www.michigan.gov/lara/-/media/Project/Websites/lara/cscl/NonImages_new/Corps/forms/corporation/502-0725.pdf). The purpose, limitations, and dissolution provisions address the [IRS organizing-document requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/charity-required-provisions-for-organizing-documents). These source notes are drafting aids, not additional articles.
-
-The Association's name and EIN are confirmed on its [official website](https://fasola.org/shmha/). The qualification condition and alternative recipient follow the [IRS Form 1023 dissolution instructions](https://www.irs.gov/instructions/i1023).
-
-The backup recipient is listed as Sacred Harp Publishing Company Inc, EIN 23-7206208, in [IRS-derived records on Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237206208).

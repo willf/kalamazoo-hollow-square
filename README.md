@@ -10,7 +10,7 @@ All documents are working drafts. They have not been signed, adopted, or filed t
 
 ## Documents
 
-- [Formation plan](formation-plan.md): organization details, remaining questions, filing sequence, and recurring requirements.
+- [Formation plan](formation-plan.md): organization details, remaining questions, filing sequence, recurring requirements, and preparation notes and sources for the articles and bylaws.
 - [Draft articles of incorporation](draft-articles.md): corporate purposes, structure, registered office, tax limitations, and dissolution provisions.
 - [Draft bylaws](draft-bylaws.md): board governance, officers, meetings, voting, and finances.
 - [Draft organizational actions](draft-organizational-actions.md): director appointments, officer elections, banking and asset-transfer resolutions, and conflict-of-interest policy.

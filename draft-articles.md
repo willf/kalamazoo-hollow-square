@@ -1,12 +1,12 @@
-# Kalamazoo Shape Note draft articles of incorporation
+# Kalamazoo Hollow Square draft articles of incorporation
 
-Draft for completion and review, November 18, 2026. Not signed or filed. The proposed name has not been cleared. Bracketed fields must be resolved before filing. These provisions follow the subjects in Michigan Form 502; the additional articles must accompany the state filing.
+Draft for completion and review, November 18, 2026. Not signed or filed. Kalamazoo Hollow Square is the provisional proposed name and has not been cleared. Bracketed fields must be resolved before filing. These provisions follow the subjects in Michigan Form 502; the additional articles must accompany the state filing.
 
 Address assumption for review: at William's direction, this draft treats the KNAC address as his business office. Verify KNAC's permission and the actual office arrangement before filing.
 
 ## Article I Name
 
-The name of the corporation is Kalamazoo Shape Note.
+The name of the corporation is Kalamazoo Hollow Square.
 
 ## Article II Purposes
 

@@ -1,6 +1,10 @@
-# Kalamazoo Shape Note
+# Kalamazoo Hollow Square
+
+*Community singing in the Sacred Harp tradition*
 
 Formation documents and planning records for a proposed Michigan nonprofit corporation seeking recognition under Section 501(c)(3) of the Internal Revenue Code.
+
+Kalamazoo Hollow Square is the provisional organization name. The repository remains `willf/kalamazoo-shape-note`.
 
 All documents are working drafts. They have not been signed, adopted, or filed through this project. Assumptions and incomplete fields must be resolved before use.
 

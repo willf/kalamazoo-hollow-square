@@ -1,10 +1,10 @@
-# Kalamazoo Shape Note draft organizational actions
+# Kalamazoo Hollow Square draft organizational actions
 
 Drafts for use after incorporation. Complete the blanks and record actual actions and votes; these templates do not establish that a meeting, appointment, or election has occurred.
 
 ## Incorporator action selecting directors
 
-I, William Fitzgerald, incorporator of Kalamazoo Shape Note, a Michigan nonprofit corporation incorporated on [actual filing or effective date], select the following initial board under MCL 450.2223:
+I, William Fitzgerald, incorporator of Kalamazoo Hollow Square, a Michigan nonprofit corporation incorporated on [actual filing or effective date], select the following initial board under MCL 450.2223:
 
 - Martha Beverly
 - Marjorie Harrington

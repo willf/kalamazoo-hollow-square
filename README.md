@@ -25,6 +25,6 @@ All documents are working drafts. They have not been signed, adopted, or filed t
 | Martha Beverly | Director without an officer assignment |
 | Marjorie Harrington | Director without an officer assignment |
 
-Officer appointments are subject to board election. The KNAC business-office arrangement remains an assumption to verify before filing.
+Officer appointments are subject to board election. William has confirmed permission to use the KNAC address for the office and mailing arrangements in the articles.
 
 Keep taxpayer identification numbers, personal banking details, credentials, and identification documents out of this repository.

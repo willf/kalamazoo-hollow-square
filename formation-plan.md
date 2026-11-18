@@ -8,7 +8,7 @@ Working record as of November 18, 2026. The accompanying articles, bylaws, and r
 - Tagline: Community singing in the Sacred Harp tradition.
 - Structure: Michigan nonprofit corporation, nonstock, directorship basis. The board elects successor directors; singers do not have statutory membership voting rights.
 - Initial directors: Martha Beverly, Marjorie Harrington, William Fitzgerald, Zachary Franklin, Becca Harrington.
-- Resident agent: William Fitzgerald. Proposed registered office: 315 W. Michigan Avenue, Kalamazoo, MI 49007, at Kalamazoo Nonprofit Advocacy Coalition (KNAC). At William's direction, drafts assume this is his business office; KNAC's permission and the actual office arrangement remain to be verified before filing.
+- Resident agent: William Fitzgerald. Registered office to be listed in the filing: 315 W. Michigan Avenue, Kalamazoo, MI 49007, at Kalamazoo Nonprofit Advocacy Coalition (KNAC). William has confirmed permission to use this address for the office arrangement in the articles.
 - Proposed mailing address: Kalamazoo Hollow Square, c/o Kalamazoo Nonprofit Advocacy Coalition, 315 W. Michigan Avenue, Kalamazoo, MI 49007.
 - Coalition contact phone supplied by William: 269.216.9022. This is not established as the singers' organizational phone number.
 - Proposed officers: William Fitzgerald, president; Zachary Franklin, secretary; Becca Harrington, treasurer. Martha Beverly and Marjorie Harrington are directors without officer assignments. Officers must be elected by the board.
@@ -28,8 +28,8 @@ Public access and the mission wording are proposed commitments for the board to 
 ## Information needed before incorporation
 
 1. Confirm legal-name availability through Michigan's [business search](https://www.michigan.gov/corpentitysearch).
-2. Verify KNAC's permission to use 315 W. Michigan Avenue as William's actual business office and the corporation's registered office, including receipt of official notices and legal process. The draft uses this address on that assumption. A mailing-only arrangement would require a different qualifying registered office. [MCL 450.2241](https://legislature.mi.gov/Laws/MCL?objectName=MCL-450-2241)
-3. The draft also uses KNAC as William's business address as sole incorporator, subject to the same verification. The incorporator selects the initial board by a separate written instrument.
+2. KNAC address permission is confirmed by William. Use 315 W. Michigan Avenue for the registered office and the care-of mailing address as set out in the articles. Keep any supporting permission correspondence with the corporate records. The registered office receives official notices and legal process. [MCL 450.2241](https://legislature.mi.gov/Laws/MCL?objectName=MCL-450-2241)
+3. The articles also use KNAC as William's business address as sole incorporator. The incorporator selects the initial board by a separate written instrument.
 4. Confirm the exact balance of the approximately $2,000 in group funds, any donor restrictions, and whether there is any real estate. No equipment or debts are reported. Determine what the new corporation will actually receive and when; do not automatically treat the informal group's assets as corporate assets.
 5. Confirm whether the informal group has ever had signed organizing documents, a fiscal sponsor, or another legal structure. This affects how its history and assets are treated.
 
@@ -66,7 +66,7 @@ The articles and bylaws were prepared as drafts for review on November 18, 2026.
 
 The articles follow the subjects in Michigan Form 502. Include the additional tax and dissolution articles with the state filing. Complete both asset-value blanks and the execution date before signing or filing. For real property, supply a description and value or state none after confirmation. For personal property, establish the corporation's actual initial assets; approximately $2,000 in existing group cash is planned for transfer from a personal account, with no equipment reported. The planned transfer is not evidence that the corporation already holds those funds.
 
-At William's direction, the articles use the KNAC address as his business office. Verify KNAC's permission and the actual office arrangement before filing.
+The articles use the KNAC address as William's business office. William has confirmed permission to use the address; this item is no longer a pending address assumption.
 
 ### Bylaws review and adoption
 
